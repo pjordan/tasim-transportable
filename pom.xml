@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.umich.eecs.tac</groupId>
     <artifactId>tasim-transportable</artifactId>
-    <version>0.8.0.5-SNAPSHOT</version>    
+    <version>0.8.0.5</version>    
     <packaging>jar</packaging>
     <name>TASIM Transportable Abstraction</name>
     <dependencies>
